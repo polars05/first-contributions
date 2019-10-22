@@ -19,7 +19,7 @@ Reading articles & watching tutorials can help, but what comes better than actua
 Download [GitKraken](https://www.gitkraken.com), Install and open it.
 
 
-You should see the "Welcome to GitKraken" modal dialog - Sign in with GitHub and allow GitKraken access to your GitHub account.
+[You should see the "Welcome to GitKraken" modal dialog - Sign in with GitHub and allow GitKraken access to your GitHub account.]
 
 
 <img style="float: right;" src="assets/gk-login.png" alt="login to GitHub" />
