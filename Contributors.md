@@ -316,6 +316,7 @@ Haris Siddiqui
 - Devraj Singh Shekhawat
 - Zeinab
 - Cate
+- Cathay
 - Shmuel Elkis (https://github.com/shmuel7e)
 - Ray
 - AniketMagadum (https://github.com/AniketMagadum)
